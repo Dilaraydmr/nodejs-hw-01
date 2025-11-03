@@ -26,12 +26,47 @@
     "phone": "749.471.4856",
     "email": "Rocio.OConnell@hotmail.com",
     "job": "Senior Factors Orchestrator"
-  },
-  {
+  }
+]  {
     "id": "188d1f93-a6fa-4d23-a1e9-e49eab585e84",
     "name": "Bernard Hayes",
     "phone": "(595) 616-3520 x1730",
     "email": "Ivy23@yahoo.com",
     "job": "Future Markets Producer"
+  },
+  {
+    "id": "29699654-84fd-42ee-a1d8-91c70c23fd5e",
+    "name": "Henrietta Upton-Reilly",
+    "phone": "680-962-9682 x07752",
+    "email": "Rebeca.Wisozk@hotmail.com",
+    "job": "Product Solutions Supervisor"
+  },
+  {
+    "id": "3b270339-0246-416c-8cdc-99e81dcc82f1",
+    "name": "Matt Ledner",
+    "phone": "855-736-6431 x5288",
+    "email": "Jess81@gmail.com",
+    "job": "National Functionality Developer"
+  },
+  {
+    "id": "e0c9805b-add9-4f3e-a678-5c022e38b0d6",
+    "name": "Kellie Cremin",
+    "phone": "285.458.0897 x308",
+    "email": "Charlie.Schumm@gmail.com",
+    "job": "Global Markets Architect"
+  },
+  {
+    "id": "6d53b67c-23aa-4e68-98e1-2dcda6fa54dd",
+    "name": "Cristina Koss",
+    "phone": "269-595-5358 x9761",
+    "email": "London.Hickle@hotmail.com",
+    "job": "National Factors Director"
+  },
+  {
+    "id": "ceb6eb5f-926c-4b8e-844a-5b02a7c4b1c3",
+    "name": "Daryl Wiza",
+    "phone": "824.445.5498 x60999",
+    "email": "Ruben.Marquardt@yahoo.com",
+    "job": "Regional Creative Orchestrator"
   }
 ]
